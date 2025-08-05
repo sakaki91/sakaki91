@@ -1,6 +1,6 @@
 - __About Sakaki:__
 - Open source developer and explorer 🌱.
   - I have been using Linux and Unix since 2018 by my own will, but I had my experience with Linux at school in 2014.
-  - I currently use Arch Linux as my main operating system, but I have extensive knowledge of Unix, Hackintosh, and Windows.
+  - I currently use Arch Linux as my main operating system, but I have extensive knowledge of POSIX, *nix, Hackintosh, and Windows.
   - I currently work on a repository (Sakaki-AC-Linux-Guide), to try to facilitate the transition of gamer users from Windows to Linux, contributing to open source, freedom and transparency.
 - __Contact: sakaki@tuta.io__
