@@ -1,17 +1,17 @@
 - __About Sakaki:__
 - Open source developer and explorer 🌱.
   - I have been using Linux and Unix since 2018 by my own will, but I had my experience with Linux at school in 2014.
-  - I currently use Arch Linux as my main operating system, but I have extensive knowledge of POSIX/*nix, Hackintosh, and Windows.
-  - I currently work on a repository (Sakaki-AC-Linux-Guide), to try to facilitate the transition of gamer users from Windows to Linux, contributing to open source, freedom and transparency.
+  - I currently use __*Arch Linux*__ as my main operating system, but I have extensive knowledge of POSIX/*nix, Hackintosh, and Windows.
+  - I currently work on a repository (__[Sakaki-AC-Linux-Guide](https://github.com/sakaki91/Sakaki-AC-Linux-Guide)__), to try to facilitate the transition of gamer users from Windows to Linux, contributing to open source, freedom and transparency.
 - __PC:__
-  - OS: Arch Linux x86_64
-  - Shell: bash
-  - Resolution: 1600x900
-  - DE: KDE Plasma
-  - WM: KWin (Wayland)
-  - CPU: Intel(R) Core(TM) i5-4590 (4) @ 3.700GHz
-  - GPU: Intel HD Graphics 4600
-  - GPU: AMD Radeon RX 550
-  - Memory: 16GB
+  - __OS__: Arch Linux x86_64
+  - __Shell__: bash
+  - __Resolution__: 1600x900
+  - __DE__: KDE Plasma
+  - __WM__: KWin (Wayland)
+  - __CPU__: Intel(R) Core(TM) i5-4590 (4) @ 3.700GHz
+  - __GPU__: Intel HD Graphics 4600
+  - __GPU__: AMD Radeon RX 550
+  - __Memory__: 16GB
 
 - __Contact: sakaki@tuta.io__
