@@ -8,9 +8,8 @@
   - __Shell__: bash
   - __Resolution__: 1600x900
   - __DE__: KDE Plasma
-  - __WM__: KWin (Wayland)
+  - __WM__: KWin (X11)
   - __CPU__: Intel(R) Core(TM) i5-4590 (4) @ 3.700GHz
-  - __GPU__: Intel HD Graphics 4600
   - __GPU__: AMD Radeon RX 550
   - __Memory__: 16GB
 
