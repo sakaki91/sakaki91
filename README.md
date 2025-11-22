@@ -16,9 +16,10 @@ __PC:__
 - __Shell__: bash
 - __Resolution__: 1600x900
 - __DE__: KDE Plasma
-- __WM__: KWin (X11)
-- __CPU__: Intel(R) Core(TM) i5-4590 (4) @ 3.700GHz
-- __GPU__: AMD Radeon RX 550
+- __WM__: KWin (Wayland)
+- __CPU__: Intel(R) Core(TM) i7-9700 (8) @ 4.700GHz
+- __GPU 0__: UHD Graphics 630
+- __GPU 1__: GeForce GTX 970
 - __Memory__: 16GB  
 
 __Contact: sakaki@tuta.io__
