@@ -2,7 +2,7 @@ __About Sakaki:__
 - Open source developer and explorer 🌱.  
 - I have been using Linux and Unix since 2018 by my own will, but I had my experience with Linux at school in 2014.
 - I currently use __*Linux Mint*__ as my main operating system, but I have extensive knowledge of POSIX/*nix, Hackintosh, and Windows.
-- I currently work on a repository (__[Sakaki-AC-Linux-Guide](https://github.com/sakaki91/Sakaki-AC-Linux-Guide)__), to try to facilitate the transition of gamer users from Windows to Linux, contributing to open source, freedom and transparency.
+- I currently work on a repository (__[Sakaki-AC-Linux-Guide](https://github.com/sakaki91/Sakaki-AC-Linux-Guide))__, and (__[WMMT6RR-TP-Linux-Guide](https://github.com/sakaki91/WMMT6RR-TP-Linux-Guide)__), to try to facilitate the transition of gamer users from Windows to Linux, contributing to open source, freedom and transparency.
 
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
