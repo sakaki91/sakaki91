@@ -1,6 +1,7 @@
 __About Sakaki:__  
 - I am a Brazilian completely obsessed with technology.
-- I'm 21 years old and since 2015 I've been exploring technologies in general, such as the evolution of NT (Windows), UNIX, Linux, and macOS (Hackintosh specifically).  
+- I'm 21 years old and since 2015 I've been exploring technologies in general, such as the evolution of NT (Windows), UNIX, Linux, and macOS (Hackintosh specifically).
+- My profile might be a mess, but anyway, I dedicate my free time to improving non-native games so they work on Linux.  
 - I currently use __*Linux Mint*__.
 
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
