@@ -1,13 +1,11 @@
 __About Sakaki:__  
-- I am a Brazilian completely obsessed with technology.
-- I'm 21 years old and since 2015 I've been exploring technologies in general, such as the evolution of NT (Windows), UNIX, Linux, and macOS (Hackintosh specifically).
-- My profile might be a mess, but anyway, I dedicate my free time to improving non-native games so they work on Linux.  
-- I currently use __*Arch Linux*__.
+- A person completely obsessed with technology, what exactly? NT-Kernel, Linux, UNIX, and macOS (Hackintosh).
+- I am currently working on making "gaming on Linux" easier by using existing tools and reverse engineering to try and translate NT code to Linux.
 
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sakaki91)
+[![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)](#)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
+[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
+[![Ruby](https://img.shields.io/badge/Ruby-%23CC342D.svg?&logo=ruby&logoColor=white)](#)
 
 __contact: sakaki@tuta.io__
