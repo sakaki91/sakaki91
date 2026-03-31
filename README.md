@@ -1,5 +1,5 @@
 __About Sakaki:__  
-- A person completely obsessed with technology, what exactly? NT-Kernel, Linux, UNIX, and macOS (Hackintosh).
+- A person completely obsessed with technology, what exactly? __*NT-Kernel*__, __*Linux*__, __*UNIX*__ and __*macOS (Hackintosh)*__, and currently studying the __*C*__ and __*Assembly*__ languages ​​(to expand my projects).   
 - I am currently working on making "gaming on Linux" easier by using existing tools and reverse engineering to try and translate NT code to Linux.
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sakaki91)
